@@ -43,7 +43,7 @@ window.portalData = {
     ],
     [
       "LogMeInRescue",
-      "https://secure.logmeinrescue.com/Account/Login?ReturnUrl=%2fapi%2fOpenAuth%2fauthorize%3fresponse_type%3dcode%26client_id%3dWebConsole%26redirect_uri%3dhttps%253A%252F%252Fconsole.logmeinrescue.com%253A443%252FOauth%252FOauthRedirect%26scope%3dweblens%3bsettings&response_type=code&client_id=WebConsole&redirect_uri=https%3A%2F%2Fconsole.logmeinrescue.com%3A443%2FOauth%2FOauthRedirect&scope=weblens;settings"
+      "https://shorturl.at/UqyK1"
     ],
     [
       "IWS Warranty Lookup",
@@ -51,7 +51,7 @@ window.portalData = {
     ],
     [
       "Lead Generation",
-      "https://forms.office.com/pages/responsepage.aspx?id=KAt9XPi9DEGqk03zcrFiAx8XhD7PAPpHqdVcJ7FDVOdURFJXTzZHNUdWRThVSkcwNUhJODBHMTA5Ri4u&origin=lprLink&route=shorturl"
+      "https://shorturl.at/iC5Ve"
     ],
     [
       "PUDO",
@@ -138,7 +138,7 @@ window.portalData = {
   "J2W URLs": [
     [
       "Transport",
-      "https://apiv2.trackervigil.com/Account/Login?ReturnUrl=/connect/authorize/callback?client_id%3Detms-web.app%26redirect_uri%3Dhttps%253A%252F%252Fj2w.trackervigil.com%252Fcallback%26response_type%3Dcode%26scope%3Dopenid%2520profile%2520offline_access%26state%3D85c2bad31f3a41ac8f91ddb73a7953c1%26code_challenge%3Dx5ovYtpxb0b4YTOj9d-EBABAYbIx7XS4XwXVp-yHYds%26code_challenge_method%3DS256%26acr_values%3Dtenant%253Aj2w%26response_mode%3Dquery%26host%3Dhttps%253A%252F%252Fj2w"
+      "https://shorturl.at/HWgBY"
     ],
     [
       "GreytHR",
